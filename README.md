@@ -5,8 +5,6 @@
 <!--
 **AnswerAIL/AnswerAIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
--->
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate on [dingtalk-spring-boot-starter](https://github.com/AnswerAIL/dingtalk-spring-boot-starter)
+- 💬 Ask me about anything [here](https://github.com/AnswerAIL/dingtalk-spring-boot-starter/issues)
+
 
